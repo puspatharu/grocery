@@ -9,7 +9,7 @@ function Contactform() {
   const form = [
     { title: "username", type: 'text' },
     { title: 'email', type: 'email' },
-    { title: "number", type: 'number' },
+    { title: "number", type: 'number'}
 
   ]
 
