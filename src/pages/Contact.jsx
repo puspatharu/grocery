@@ -2,7 +2,7 @@
 import React from 'react'
 import Banner_reuse from '../components/ui/Banner_reuse'
 import Bgimg from '../assets/bgimg.jpg'
-import Contactform from '../components/pagecomponent/Contact/contactform'
+import Contactform from '../components/pagecomponent/Contact/Contact_form'
 
 
 function Contact() {
